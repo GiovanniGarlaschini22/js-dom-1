@@ -23,18 +23,9 @@ Al click del bottone, la lampadina dovrà accendersi (dovremo quindi utilizzare 
 #### Esecuzione logica parte 2
 - [X] Inserire all'interno dell'html l'immagine della lampadina spenta;
 - [X] Inserire all'interno dell'html un tag button per creare bottone;
-- [] Stilizzare bottone in css creando la sua classe "btn";
-- [] Per disporre il bottone accanto all'immagine usare flexbox;
-- [] Inserire all'interno dell'html l'immagine della lampadina accesa;
-- [] Per nascondere immagine lampadina accesa usare proprietà flexbox: "block";
+- [X] Stilizzare bottone in css creando la sua classe "btn";
+- [X] Per disporre il bottone accanto all'immagine usare flexbox;
 ---
 #### Esecuzione logica parte 3
-- [] Nello script di Javascript, utilizzare le variabili e le funzioni per far si che avvengano le seguenti azioni:
-    - [] fare click sul bottone con la scritta "Accendi" per fare accendere la lampadina e far comparire il bottone con la scritta "Spegni";
+- [X] Nello script di Javascript, utilizzare le variabili e le funzioni per far si che avvengano le azioni.
 ---
-#### BONUS
-- [] fare click sul bottone con la scritta "Spegni" per fare spegnere la lampadina e far comparire il bottone con la scritta "Accendi";
----
-#### Output
-
-- [] Fare accendere la lampadina.
