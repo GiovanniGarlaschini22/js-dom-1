@@ -21,8 +21,8 @@ Al click del bottone, la lampadina dovrà accendersi (dovremo quindi utilizzare 
 - [X] Verificare che entrambi i file siano collegati correttamente all'html;
 ---
 #### Esecuzione logica parte 2
-- [] Inserire all'interno dell'html l'immagine della lampadina spenta;
-- [] Inserire all'interno dell'html un tag button per creare bottone;
+- [X] Inserire all'interno dell'html l'immagine della lampadina spenta;
+- [X] Inserire all'interno dell'html un tag button per creare bottone;
 - [] Stilizzare bottone in css creando la sua classe "btn";
 - [] Per disporre il bottone accanto all'immagine usare flexbox;
 - [] Inserire all'interno dell'html l'immagine della lampadina accesa;
